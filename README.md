@@ -1,1 +1,1 @@
-# Some experiments with RL and MIP on inventory management
+Some experiments with RL and MIP on inventory management
